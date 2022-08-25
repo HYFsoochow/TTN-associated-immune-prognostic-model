@@ -1,0 +1,195 @@
+Tumor_Sample_Barcode,Stage,Stage,T,N,M,gender,vital_status,age_at_index,Age
+TCGA-D3-A1QB,Stage III,stage iii,T0,N2c,M0,female,Alive,75,61 to 75
+TCGA-FS-A1ZT,Stage III,stage iii,T2,N1b,M0,male,Alive,55,46 to 60
+TCGA-ER-A2NB,Stage IIIB,stage iiib,T4b,N2,M0,male,Dead,57,46 to 60
+TCGA-D3-A1Q4,Stage IIIC,stage iiic,T2b,N1b,M0,female,Alive,53,46 to 60
+TCGA-EE-A2MH,Stage III,stage iii,T4a,N0,M0,male,Dead,66,61 to 75
+TCGA-EE-A20I,Stage IV,stage iv,TX,N0,M1c,male,Dead,79,¡Ý76
+TCGA-D9-A4Z2,Stage IIIC,stage iiic,T4b,N3,M0,male,Dead,50,46 to 60
+TCGA-FS-A1ZA,Stage IIIB,stage iiib,T4b,N2c,M0,female,Dead,45,¡Ü45
+TCGA-D3-A8GD,Stage IIIC,stage iiic,T4b,N3,M0,female,Alive,63,61 to 75
+TCGA-D3-A3ML,Stage IIIA,stage iiia,T3a,N2a,M0,male,Dead,70,61 to 75
+TCGA-D3-A5GT,Stage IIIC,stage iiic,T2b,N3,M0,male,Alive,43,¡Ü45
+TCGA-D3-A3MU,Stage IIIA,stage iiia,T3a,N2a,M0,male,Alive,53,46 to 60
+TCGA-D3-A2J9,Stage IIIC,stage iiic,T4b,N3,M0,male,Dead,75,61 to 75
+TCGA-ER-A19O,Stage IIIB,stage iiib,T3b,N1b,M0,male,Dead,56,46 to 60
+TCGA-DA-A1HY,Stage III,stage iii,T2b,N1,M0,male,Alive,42,¡Ü45
+TCGA-FW-A5DY,Stage III,stage iii,T3,N1,,female,Alive,48,46 to 60
+TCGA-D3-A51N,Stage IV,stage iv,T0,N3,M1c,female,Alive,56,46 to 60
+TCGA-ER-A19A,Stage IV,stage iv,TX,N0,M1,male,Alive,79,¡Ý76
+TCGA-BF-AAP0,Stage IV,stage iv,T4,NX,M1,female,Alive,40,¡Ü45
+TCGA-ER-A197,Stage IIIB,stage iiib,T4b,N1a,M0,female,Dead,83,¡Ý76
+TCGA-D3-A51J,Stage III,stage iii,T0,N1b,M0,male,Alive,19,¡Ü45
+TCGA-D3-A3CE,Stage III,stage iii,T0,N1b,M0,female,Dead,74,61 to 75
+TCGA-D3-A51H,Stage IIIC,stage iiic,T1b,N3,M0,male,Alive,60,46 to 60
+TCGA-GN-A4U3,Stage III,stage iii,T3a,N1a,M0,male,Alive,30,¡Ü45
+TCGA-BF-A5EP,Stage IIIC,stage iiic,T4b,N3,M0,female,Alive,75,61 to 75
+TCGA-D3-A2JP,Stage IIIC,stage iiic,T0,N3,M0,male,Alive,37,¡Ü45
+TCGA-DA-A1HW,Stage IIIB,stage iiib,T1a,N1b,M0,female,Dead,37,¡Ü45
+TCGA-ER-A2NG,Stage IIIC,stage iiic,T3b,N3,M0,female,Dead,43,¡Ü45
+TCGA-WE-A8K1,Stage IIIC,stage iiic,T3b,N3,M0,male,Alive,74,61 to 75
+TCGA-EE-A3JB,Stage III,stage iii,T3a,N1,M0,female,Alive,60,46 to 60
+TCGA-W3-AA1Q,Stage III,stage iii,TX,N1,M0,male,Dead,57,46 to 60
+TCGA-WE-AAA4,Stage IIIC,stage iiic,TX,N3,M0,female,Alive,56,46 to 60
+TCGA-WE-AAA3,Stage IIIC,stage iiic,T4b,N2b,M0,female,Alive,84,¡Ý76
+TCGA-FW-A5DX,Stage IIIC,stage iiic,T4a,N3,,male,Alive,71,61 to 75
+TCGA-D9-A6EC,Stage IIIA,stage iiia,T3a,N1,M0,male,Alive,56,46 to 60
+TCGA-ER-A2NF,Stage IIIB,stage iiib,T3b,N3,M0,male,Dead,53,46 to 60
+TCGA-BF-A1PX,Stage IIIB,stage iiib,T4b,N2a,M0,male,Dead,56,46 to 60
+TCGA-GN-A4U9,Stage IIIC,stage iiic,T2b,N3,M0,male,Dead,71,61 to 75
+TCGA-D9-A4Z3,Stage IIIC,stage iiic,T4b,N1b,M0,female,Alive,73,61 to 75
+TCGA-EE-A3AD,Stage III,stage iii,T0,N1b,M0,male,Dead,50,46 to 60
+TCGA-GN-A263,Stage IV,stage iv,T4b,N3,M1c,male,Dead,24,¡Ü45
+TCGA-FW-A3I3,Stage IV,stage iv,NA,N0,M1,female,Alive,59,46 to 60
+TCGA-BF-A3DL,Stage IIIB,stage iiib,T3b,N2,M0,female,Alive,84,¡Ý76
+TCGA-EE-A17Y,Stage IIIB,stage iiib,T3b,N1a,M0,male,Dead,69,61 to 75
+TCGA-FS-A1Z7,Stage IIIC,stage iiic,T4b,N1b,M0,male,Dead,19,¡Ü45
+TCGA-D3-A2JO,Stage IIIC,stage iiic,TX,N3,M0,female,Alive,50,46 to 60
+TCGA-EE-A3AF,Stage IIIC,stage iiic,T0,N3,M0,female,Dead,48,46 to 60
+TCGA-D3-A51K,Stage IIIB,stage iiib,Tis,N2b,M0,male,Alive,51,46 to 60
+TCGA-EB-A4OZ,Stage IIIC,stage iiic,T4a,N3,M0,female,Alive,41,¡Ü45
+TCGA-GF-A3OT,Stage IIIC,stage iiic,T3,N3,M0,female,Alive,58,46 to 60
+TCGA-FS-A1ZG,Stage IIIC,stage iiic,T4b,N2b,M0,female,Dead,60,46 to 60
+TCGA-DA-A1I4,Stage IIIC,stage iiic,T3b,N2b,M0,male,Dead,51,46 to 60
+TCGA-FW-A3TV,Stage IIIB,stage iiib,T1,N2b,M0,female,Alive,57,46 to 60
+TCGA-DA-A3F8,Stage IIIB,stage iiib,T2a,N2b,M0,male,Alive,39,¡Ü45
+TCGA-ER-A199,Stage IIIC,stage iiic,T4b,N3,M0,female,Dead,86,¡Ý76
+TCGA-QB-A6FS,Stage IIIC,stage iiic,T0,N3,M0,male,Alive,49,46 to 60
+TCGA-EB-A5UL,Stage III,stage iii,TX,N1,M0,male,Alive,71,61 to 75
+TCGA-FS-A1ZM,Stage III,stage iii,T2,N2c,M0,male,Alive,74,61 to 75
+TCGA-D3-A5GS,Stage IV,stage iv,T1b,N1b,M1c,male,Alive,58,46 to 60
+TCGA-EB-A24D,Stage IIIB,stage iiib,T4a,N2b,M0,male,Alive,72,61 to 75
+TCGA-D3-A8GP,Stage III,stage iii,T2,N2c,M0,male,Alive,77,¡Ý76
+TCGA-EB-A5VU,Stage IIIB,stage iiib,T4b,N1,M0,male,Dead,56,46 to 60
+TCGA-D9-A4Z6,Stage IIIC,stage iiic,T3b,N1b,M0,male,Dead,54,46 to 60
+TCGA-ER-A1A1,Stage IIIC,stage iiic,TX,N3,M0,male,Alive,58,46 to 60
+TCGA-GN-A267,Stage IIIA,stage iiia,T4a,N1a,M0,male,Dead,38,¡Ü45
+TCGA-EE-A29G,Stage IIIA,stage iiia,T4a,N2a,M0,male,Dead,53,46 to 60
+TCGA-EE-A2MJ,Stage III,stage iii,T4b,N0,M0,male,Dead,60,46 to 60
+TCGA-EE-A180,Stage III,stage iii,T4a,N0,M0,male,Dead,69,61 to 75
+TCGA-D3-A2JG,Stage IIIA,stage iiia,T3a,N1a,M0,female,Dead,30,¡Ü45
+TCGA-DA-A95Z,Stage IV,stage iv,TX,N0,M1a,male,Alive,87,¡Ý76
+TCGA-EE-A3AB,Stage III,stage iii,T0,N2a,M0,male,Alive,30,¡Ü45
+TCGA-GN-A26C,Stage IIIC,stage iiic,T4b,N2b,M0,male,Dead,77,¡Ý76
+TCGA-EB-A5KH,Stage III,stage iii,T0,N1,M0,male,Dead,55,46 to 60
+TCGA-WE-AA9Y,Stage IIIC,stage iiic,T2a,N3,M0,male,Alive,37,¡Ü45
+TCGA-EE-A3J5,Stage III,stage iii,T4a,N1,M0,male,Dead,71,61 to 75
+TCGA-EE-A2A2,Stage IIIC,stage iiic,T4b,N1b,M0,male,Alive,71,61 to 75
+TCGA-D3-A2JN,Stage III,stage iii,T0,N1b,M0,female,Dead,46,46 to 60
+TCGA-D3-A1Q6,Stage III,stage iii,T4,N1b,M0,male,Dead,55,46 to 60
+TCGA-D9-A3Z4,Stage IIIC,stage iiic,T4b,N3,M0,male,Dead,54,46 to 60
+TCGA-RP-A693,Stage IV,stage iv,TX,NX,M1c,male,Alive,77,¡Ý76
+TCGA-DA-A1HV,Stage IIIB,stage iiib,T0,N2b,M0,female,Alive,75,61 to 75
+TCGA-D3-A1Q9,Stage IIIB,stage iiib,T4b,N2a,M0,male,Dead,72,61 to 75
+TCGA-DA-A3F3,Stage IIIB,stage iiib,T0,N2b,M0,male,Dead,52,46 to 60
+TCGA-EE-A2GB,Stage IIIB,stage iiib,T2b,N1a,M0,male,Alive,51,46 to 60
+TCGA-D3-A1Q8,Stage IV,stage iv,T0,N3,M1b,male,Dead,33,¡Ü45
+TCGA-EE-A29R,Stage IIIC,stage iiic,T3b,N1b,M0,female,Alive,48,46 to 60
+TCGA-FR-A7U9,Stage IIIC,stage iiic,T3b,N3,M0,female,Alive,63,61 to 75
+TCGA-D3-A3MV,Stage IIIB,stage iiib,T2b,N2a,M0,female,Alive,38,¡Ü45
+TCGA-DA-A1I1,Stage III,stage iii,T0,N2a,M0,male,Alive,55,46 to 60
+TCGA-ER-A19J,Stage IV,stage iv,TX,N3,M1,male,Dead,54,46 to 60
+TCGA-FR-A7U8,Stage IIIC,stage iiic,TX,N3,M0,male,Alive,50,46 to 60
+TCGA-BF-AAP6,Stage III,stage iii,T4b,N2,M0,male,Alive,55,46 to 60
+TCGA-EE-A29D,Stage IIIC,stage iiic,T3b,N1b,M0,male,Dead,87,¡Ý76
+TCGA-ER-A3ET,Stage IIIA,stage iiia,T3a,N1a,M0,female,Dead,64,61 to 75
+TCGA-EE-A185,Stage IIIC,stage iiic,T4b,N3,M0,female,Dead,55,46 to 60
+TCGA-EB-A44R,Stage IIIB,stage iiib,TX,N2b,M0,male,Dead,52,46 to 60
+TCGA-FS-A1ZH,Stage IV,stage iv,T3b,N2c,M1c,female,Dead,71,61 to 75
+TCGA-EE-A182,Stage IIIC,stage iiic,T4b,N1b,M0,female,Dead,84,¡Ý76
+TCGA-D3-A51T,Stage IIIC,stage iiic,T4b,N1b,M0,female,Alive,59,46 to 60
+TCGA-HR-A2OH,Stage IIIB,stage iiib,T3b,N2a,M0,female,Dead,46,46 to 60
+TCGA-D9-A6E9,Stage IIIA,stage iiia,T3a,N1,M0,female,Alive,75,61 to 75
+TCGA-D3-A5GR,Stage III,stage iii,T1b,N1,M0,female,Alive,23,¡Ü45
+TCGA-ER-A42K,Stage IIIC,stage iiic,T4b,N3,M0,female,Dead,40,¡Ü45
+TCGA-EE-A2M8,Stage III,stage iii,T3a,N1,M0,female,Dead,54,46 to 60
+TCGA-WE-A8K5,Stage IV,stage iv,T2a,N3,M1c,male,Dead,65,61 to 75
+TCGA-D3-A8GB,Stage IIIB,stage iiib,T3a,N1b,M0,male,Dead,48,46 to 60
+TCGA-FS-A1ZN,Stage IIIA,stage iiia,T4b,N1a,M0,male,Dead,43,¡Ü45
+TCGA-EB-A3Y7,Stage IIIB,stage iiib,T3a,N2c,M0,female,Dead,86,¡Ý76
+TCGA-EB-A44Q,Stage IIIC,stage iiic,TX,N3,M0,female,Alive,51,46 to 60
+TCGA-DA-A3F2,Stage IIIB,stage iiib,T4a,N2b,M0,male,Dead,55,46 to 60
+TCGA-EE-A29V,Stage IIIC,stage iiic,T3b,N1b,M0,male,Dead,85,¡Ý76
+TCGA-EE-A3AG,Stage III,stage iii,T0,N2c,M0,male,Dead,25,¡Ü45
+TCGA-D3-A2JD,Stage IIIC,stage iiic,T4b,N1b,M0,male,Dead,58,46 to 60
+TCGA-GF-A6C9,Stage IIIB,stage iiib,NA,,,male,Alive,78,¡Ý76
+TCGA-EB-A4IQ,Stage IIIB,stage iiib,T4b,N1,M0,female,Dead,42,¡Ü45
+TCGA-FS-A4FD,Stage IIIC,stage iiic,T2,N3,M0,male,Dead,39,¡Ü45
+TCGA-EB-A6L9,Stage IIIC,stage iiic,TX,N3,M0,male,Alive,55,46 to 60
+TCGA-D3-A2JK,Stage IIIC,stage iiic,T4b,N2b,M0,male,Dead,24,¡Ü45
+TCGA-FS-A4FB,Stage III,stage iii,T2,N1a,M0,female,Dead,46,46 to 60
+TCGA-QB-AA9O,Stage IIIC,stage iiic,TX,N3,M0,male,Dead,73,61 to 75
+TCGA-FR-A728,Stage IIIB,stage iiib,T4b,N2a,M0,female,Alive,54,46 to 60
+TCGA-DA-A1I5,Stage IV,stage iv,T1a,N0,M1c,female,Alive,27,¡Ü45
+TCGA-D3-A2JC,Stage III,stage iii,T0,N2b,M0,female,Alive,53,46 to 60
+TCGA-D3-A3MO,Stage III,stage iii,TX,N2c,M0,male,Dead,47,46 to 60
+TCGA-EE-A2GP,Stage IIIB,stage iiib,T4b,N1a,M0,male,Dead,80,¡Ý76
+TCGA-EE-A2MK,Stage III,stage iii,T4a,N0,M0,female,Alive,18,¡Ü45
+TCGA-ER-A2ND,Stage IIIC,stage iiic,T1b,N3,M0,female,Dead,57,46 to 60
+TCGA-EB-A4OY,Stage IIIB,stage iiib,T4b,N1a,M0,female,Alive,65,61 to 75
+TCGA-EB-A551,Stage IIIC,stage iiic,T4b,N2b,M0,female,Alive,78,¡Ý76
+TCGA-D3-A3C7,Stage III,stage iii,T0,N1b,M0,female,Alive,57,46 to 60
+TCGA-D9-A3Z1,Stage IIIC,stage iiic,T2a,N3,M0,male,Dead,66,61 to 75
+TCGA-FW-A3R5,Stage III,stage iii,TX,N2,M0,male,Alive,68,61 to 75
+TCGA-DA-A95W,Stage IIIB,stage iiib,TX,N1b,M0,male,Alive,52,46 to 60
+TCGA-FS-A1ZW,Stage IIIB,stage iiib,T2b,N1a,M0,male,Alive,65,61 to 75
+TCGA-EB-A57M,Stage IIIB,stage iiib,T4b,N1,M0,male,Dead,56,46 to 60
+TCGA-ER-A2NH,Stage IIIC,stage iiic,T3a,N3,M0,male,Alive,49,46 to 60
+TCGA-EB-A5FP,Stage IV,stage iv,T4b,NX,M1b,female,Dead,65,61 to 75
+TCGA-D3-A1Q1,Stage IIIC,stage iiic,T1b,N3,M0,female,Dead,79,¡Ý76
+TCGA-EE-A3JE,Stage IIIB,stage iiib,T3b,N1a,M0,male,Alive,75,61 to 75
+TCGA-RP-A694,Stage IV,stage iv,TX,NX,M1c,male,Alive,71,61 to 75
+TCGA-GN-A269,Stage IIIC,stage iiic,T4b,N3,M0,male,Dead,70,61 to 75
+TCGA-EE-A3J8,Stage IIIA,stage iiia,T4a,N1a,M0,male,Dead,59,46 to 60
+TCGA-EE-A2MQ,Stage IIIA,stage iiia,T3a,N2a,M0,female,Dead,70,61 to 75
+TCGA-RP-A695,Stage IV,stage iv,TX,NX,M1c,male,Alive,NA, 
+TCGA-DA-A1IB,Stage IIIC,stage iiic,T2b,N2b,M0,female,Dead,69,61 to 75
+TCGA-D3-A2JE,Stage IIIC,stage iiic,TX,N3,M0,female,Dead,75,61 to 75
+TCGA-DA-A1IA,Stage IIIB,stage iiib,T2a,N1b,M0,female,Dead,32,¡Ü45
+TCGA-D9-A6EA,Stage IIIC,stage iiic,T4a,N3,M0,male,Alive,70,61 to 75
+TCGA-D3-A2JA,Stage IIIA,stage iiia,T2a,N1a,M0,male,Alive,68,61 to 75
+TCGA-GN-A4U7,Stage IIIC,stage iiic,T2b,N3,M0,female,Dead,56,46 to 60
+TCGA-WE-A8ZO,Stage IIIB,stage iiib,T3a,N1b,M0,female,Alive,73,61 to 75
+TCGA-ER-A3EV,Stage III,stage iii,T4,N0,M0,male,Dead,55,46 to 60
+TCGA-D3-A8GC,Stage IIIC,stage iiic,TX,N3,M0,male,Dead,48,46 to 60
+TCGA-WE-A8ZM,Stage IIIB,stage iiib,TX,N1b,M0,male,Alive,70,61 to 75
+TCGA-D3-A2J7,Stage IIIC,stage iiic,T3b,N1b,M0,male,Dead,67,61 to 75
+TCGA-WE-A8K6,Stage IIIB,stage iiib,TX,N1b,M0,male,Alive,79,¡Ý76
+TCGA-BF-A3DN,Stage IIIC,stage iiic,T3b,N3,M0,female,Alive,81,¡Ý76
+TCGA-EE-A29L,Stage IIIC,stage iiic,T4b,N3,M0,male,Dead,78,¡Ý76
+TCGA-FS-A4F9,Stage IIIC,stage iiic,T4b,N3,M0,male,Alive,80,¡Ý76
+TCGA-D3-A8GE,Stage IV,stage iv,TX,N0,M1b,male,Alive,26,¡Ü45
+TCGA-EE-A29A,Stage IIIA,stage iiia,T3a,N1a,M0,male,Dead,68,61 to 75
+TCGA-D3-A3C8,Stage IIIC,stage iiic,TX,N3,M0,female,Alive,58,46 to 60
+TCGA-EE-A3JD,Stage III,stage iii,TX,N2b,M0,male,Dead,70,61 to 75
+TCGA-GN-A26A,Stage IIIA,stage iiia,T3a,N1a,M0,female,Dead,63,61 to 75
+TCGA-D9-A6EG,Stage IIIA,stage iiia,T4a,N1,M0,male,Dead,56,46 to 60
+TCGA-WE-A8ZT,Stage IV,stage iv,T3b,N1b,M1b,female,Alive,25,¡Ü45
+TCGA-WE-A8ZX,Stage IIIB,stage iiib,TX,N1b,M0,male,Alive,45,¡Ü45
+TCGA-DA-A1I2,Stage III,stage iii,T4b,N2b,M0,male,Dead,45,¡Ü45
+TCGA-EB-A82B,Stage III,stage iii,T4b,N2,M0,female,Alive,58,46 to 60
+TCGA-GF-A4EO,Stage IIIC,stage iiic,T0,N3,M0,female,Alive,74,61 to 75
+TCGA-D3-A51F,Stage IIIC,stage iiic,T4b,N1b,M0,male,Alive,51,46 to 60
+TCGA-D3-A3MR,Stage III,stage iii,T0,N1b,M0,male,Alive,42,¡Ü45
+TCGA-3N-A9WD,Stage IIIA,stage iiia,T2a,N1a,M0,male,Dead,82,¡Ý76
+TCGA-EB-A5SH,Stage III,stage iii,T4,N0,M0,female,Alive,60,46 to 60
+TCGA-EE-A29E,Stage IIIB,stage iiib,T3a,N1b,M0,male,Alive,54,46 to 60
+TCGA-FR-A69P,Stage IIIC,stage iiic,TX,N3,,female,Alive,34,¡Ü45
+TCGA-D3-A3CF,Stage IIIC,stage iiic,T4b,N3,M0,female,Dead,61,61 to 75
+TCGA-D3-A8GL,Stage IIIB,stage iiib,T2a,N1b,M0,male,Dead,43,¡Ü45
+TCGA-WE-A8ZR,Stage IIIC,stage iiic,T4b,N1b,M0,male,Dead,49,46 to 60
+TCGA-EB-A5VV,Stage IIIB,stage iiib,T3b,N1,M0,female,Alive,74,61 to 75
+TCGA-ER-A3PL,Stage IV,stage iv,T3b,N0,M1a,male,Alive,30,¡Ü45
+TCGA-XV-AAZY,Stage IIIC,stage iiic,T4,N3,M0,female,Alive,76,¡Ý76
+TCGA-ER-A19T,Stage IV,stage iv,T4a,N3,M1a,male,Dead,51,46 to 60
+TCGA-WE-A8JZ,Stage IIIB,stage iiib,T4b,N1a,M0,male,Alive,70,61 to 75
+TCGA-W3-AA1O,Stage III,stage iii,TX,N2,M0,male,Dead,85,¡Ý76
+TCGA-EB-A42Z,Stage IIIC,stage iiic,T4b,N1b,M0,male,Alive,49,46 to 60
+TCGA-DA-A1I0,Stage IV,stage iv,T4b,N3,M1a,male,Dead,63,61 to 75
+TCGA-EE-A3AC,Stage III,stage iii,T0,N2b,M0,male,Alive,47,46 to 60
+TCGA-BF-A3DJ,Stage IIIB,stage iiib,T4b,N1,M0,female,Alive,36,¡Ü45
+TCGA-D9-A3Z3,Stage IIIB,stage iiib,T3a,N1b,M0,female,Alive,39,¡Ü45
+TCGA-DA-A1IC,Stage IIIB,stage iiib,T3a,N2c,M0,male,Dead,81,¡Ý76
+TCGA-EE-A3AA,Stage III,stage iii,T0,N2a,M0,male,Alive,47,46 to 60
+TCGA-FS-A1Z3,Stage IV,stage iv,TX,N0,M1,female,Dead,72,61 to 75
+TCGA-DA-A1I7,Stage IIIB,stage iiib,T0,N2b,M0,male,Alive,62,61 to 75
